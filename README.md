@@ -1,2 +1,5 @@
-vi README.md
+README.md
 primera actualizacion
+
+
+Segunda actualizacion 
